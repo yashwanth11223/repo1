@@ -1,3 +1,2 @@
 # repo1
-lowda
-global
+wwe
